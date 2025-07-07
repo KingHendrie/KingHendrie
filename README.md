@@ -37,7 +37,7 @@ I'm passionate about coding, creating, and collaborating on cool projects. Wheth
 
 - [AwesomeProject](https://github.com/KingHendrie/Bookstore-Website)  
   A small dynamic bookstore, built on node where I experimented with more advanced concepts.
-  Such as: Migrations, models, layout partilisation, etc.
+  Such as: Migrations, models, layout partialization, etc.
 
 - [NextBigThing](https://github.com/KingHendrie/Markdown-Flashcards)  
   Studying was never my strong point. It feels boring and is never interesting enough.

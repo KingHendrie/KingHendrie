@@ -35,11 +35,11 @@ I'm passionate about coding, creating, and collaborating on cool projects. Wheth
 
 ## 🧩 Featured Projects
 
-- [AwesomeProject](https://github.com/KingHendrie/Bookstore-Website)  
+- [Bookstore Website](https://github.com/KingHendrie/Bookstore-Website)  
   A small dynamic bookstore, built on node where I experimented with more advanced concepts.
   Such as: Migrations, models, layout partialization, etc.
 
-- [NextBigThing](https://github.com/KingHendrie/Markdown-Flashcards)  
+- [Study Tool](https://github.com/KingHendrie/Markdown-Flashcards)  
   Studying was never my strong point. It feels boring and is never interesting enough.
   Thus, I created a small browser based studying tool to review Markdown-based flashcards and notes, with some nifty features as well!
 
